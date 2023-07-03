@@ -412,7 +412,17 @@ password: test
         }
     }//GEN-LAST:event_btnuploadActionPerformed
 
+/*
+cmbchina.com
+cmbchina.biz
+cmb.wiki
+cmburl.cn
+boi-ad.com
+key:6007895448534654641
+password:zhansan@2023
+ossskey:sas54sdffa35435wasds
 
+*/
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnLogout;
     private javax.swing.JButton btnTambah;
