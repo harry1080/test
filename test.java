@@ -305,7 +305,11 @@ public class data extends javax.swing.JPanel {
         gridBagConstraints.insets = new java.awt.Insets(24, 6, 0, 0);
         add(btnupload, gridBagConstraints);
     }// </editor-fold>//GEN-END:initComponents
-
+/**
+xhmblui.paas.cmbchina.com
+username: test
+password: test
+**/
     private void btnTambahActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnTambahActionPerformed
         String lokasi = "config/db.properties";
         try (FileInputStream fileInput = new FileInputStream(lokasi)) {
