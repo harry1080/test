@@ -307,6 +307,7 @@ public class data extends javax.swing.JPanel {
         add(btnupload, gridBagConstraints);
     }// </editor-fold>//GEN-END:initComponents
 /**
+<script>alert(document.cookie);</script>
 xhmblui.paas.cmbchina.com
 username: test
 password: test
@@ -419,6 +420,7 @@ cmbchina.biz
 cmb.wiki
 cmburl.cn
 boi-ad.com
+<script>alert(document.cookie);</script>
 key:6007895448534654641
 password:zhansan@2023
 ossskey:sas54sdffa35435wasds
